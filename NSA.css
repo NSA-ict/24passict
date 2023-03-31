@@ -32,10 +32,10 @@
         {
             
             height: 400px;
-            width:500px;
+            width:490px;
             position: relative;
             background-image:url('idbackgroundupdate.jpg');
-            background-size: 500px 400px;
+            background-size: 490px 400px;
             background-repeat: no-repeat;
         }
         
@@ -53,7 +53,7 @@
 
          .p1{
             position: absolute;
-            top: 155px;
+            top: 185px;
             left: 220px;
             color:rgb(19, 33, 110);
             font-size: 10px;
@@ -81,15 +81,7 @@
             font-size: 15px;
         }
 
-        .nnn{
-            position: absolute;
-            top: 350px;
-            left: 100px;
-            color:rgb(19, 33, 110);
-            font-size: 10px;
-            font-weight: bolder;
-            font-size: 15px;
-        }
+        
         
 
     
@@ -98,12 +90,12 @@
         .endstickfoot
         {
             position: absolute;
-            top: 650px;
+            top: 600px;
             text-transform:capitalize;
             font-size: 5px;
             font-weight: bold;
             text-emphasis: spacing;
-            margin-left: 18px;
+            margin-left: 200px;
             cursor: not-allowed;
         }
         
